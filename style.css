@@ -15,8 +15,7 @@
       color: #02457A;
       font-size: 14px;
       overflow: hidden;
-      /* white-space: nowrap; */
-    }
+      }
     .top-bar p {
       display: inline-block;
       padding: 8px 0;
