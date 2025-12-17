@@ -28,7 +28,7 @@
     }
     /* ---------- Header ---------- */
     header {
-      position: sticky;
+      position: sticky;z-index:9999;
       top: 0;   background: #D6EBEE;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
